@@ -1,0 +1,1 @@
+alert('XSS alert: Hello World!');
